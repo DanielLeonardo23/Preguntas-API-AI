@@ -1,0 +1,119 @@
+1. Programas nada parecidos al test de Turing: JULIA, ELIZA
+Respuesta: F
+Explicación: ELIZA y JULIA son programas que intentan simular conversación humana, lo que está relacionado con el test de Turing.
+
+2. Ordenar un cubo mágico (esto es colocar el cubo de tal forma que cada cara del cubo tenga un solo color) es un problema de decisión.
+Respuesta: F
+Explicación: Ordenar un cubo mágico es un problema de localización, no un problema de decisión.
+
+3. Los algoritmos de búsqueda con información presentan complejidad polinomial respecto al número de niveles del árbol de estado.
+Respuesta: F
+Explicación: Los algoritmos de búsqueda con información también pueden presentar complejidad no polinomial en el peor caso.
+
+4. El desarrollo de sistemas de créditos financiero basados en reglas de negocio corresponde al paradigma sub-simbólico.
+Respuesta: F
+Explicación: Los sistemas basados en reglas de negocio corresponden al paradigma simbólico, no al sub-simbólico.
+
+5. La inteligencia es exclusividad de las máquinas hechas de proteínas.
+Respuesta: F
+Explicación: La inteligencia no es exclusiva de los seres biológicos (máquinas hechas de proteínas), también puede existir en sistemas artificiales.
+
+6. La inteligencia de los software de juego humano-máquina basados en búsqueda en un espacio de estado es dada por la función evaluadora, la estrategia de selección de la jugada a realizar, y los niveles del árbol de estado considerados.
+Respuesta: V
+Explicación: Estos tres elementos son los que determinan la inteligencia de los juegos basados en búsqueda en un espacio de estado.
+
+7. Los sistemas de información gerencial corresponden a problemas de la inteligencia artificial.
+Respuesta: F
+Explicación: Los sistemas de información gerencial son sistemas de procesamiento de datos, no necesariamente problemas de inteligencia artificial.
+
+8. La estrategia de diferencia de utilidades juega a la defensiva.
+Respuesta: F
+Explicación: La estrategia de diferencia de utilidades es considerada ofensiva, no defensiva.
+
+9. Puede existir un problema no computable que sea intratable.
+Respuesta: V
+Explicación: Los problemas no computables son por definición intratables, ya que no existe un algoritmo que los resuelva.
+
+10. Una alternativa para hacer que las estrategias de los juegos humano-máquina sean no definidas explícitamente es usar los algoritmos de aprendizaje automático (machine learning).
+Respuesta: V
+Explicación: El aprendizaje automático permite que las estrategias se desarrollen a través del entrenamiento en lugar de ser programadas explícitamente.
+
+11. Es recomendable usar machine learning para resolver algunos problemas de data mining.
+Respuesta: V
+Explicación: El machine learning es una herramienta fundamental para resolver problemas de minería de datos.
+
+12. En la representación de un problema como búsqueda en un espacio de estado es necesario explicitar el espacio de estado.
+Respuesta: V
+Explicación: Para resolver un problema mediante búsqueda en un espacio de estado, es necesario definir claramente dicho espacio.
+
+13. Un software de juego humano máquina basado en búsqueda en un espacio de estado con árbol de profundidad 10, algoritmo de diferencia de utilidades, pero con función evaluadora constante tiene casi igual comportamiento que un software de juego con nivel principiante.
+Respuesta: V
+Explicación: Una función evaluadora constante no proporciona información útil para la toma de decisiones, lo que resulta en un comportamiento de nivel principiante.
+
+14. Determinar el número de fichas en el juego de ajedrez es una regla.
+Respuesta: F
+Explicación: Determinar el número de fichas es una operación de conteo, no una regla del juego.
+
+15. El desarrollo de un machine learning para predecir la demanda de carros de un modelo es un objetivo de ingeniería de la inteligencia artificial.
+Respuesta: V
+Explicación: Desarrollar sistemas de predicción utilizando machine learning es un objetivo de ingeniería de la IA.
+
+16. Los métodos de propósito general son eficientes para resolver un problema en particular.
+Respuesta: F
+Explicación: Los métodos de propósito general suelen ser menos eficientes que los métodos específicos para resolver problemas particulares.
+
+17. Es adecuado el uso de lenguajes de IA para hacer sistemas expertos.
+Respuesta: V
+Explicación: Los lenguajes de IA están diseñados para facilitar el desarrollo de sistemas expertos y otros sistemas inteligentes.
+
+18. John McCarthy acuña el termino de inteligencia artificial en una conferencia celebrada en Darmouth en 1956.
+Respuesta: V
+Explicación: John McCarthy efectivamente acuñó el término 'inteligencia artificial' en la conferencia de Dartmouth en 1956.
+
+19. Si un problema decisión es NP-difícil entonces su correspondiente problema de optimización puede ser tratable.
+Respuesta: F
+Explicación: Si un problema de decisión es NP-difícil, su correspondiente problema de optimización también será al menos tan difícil.
+
+20. Una función evaluadora asociada a los problemas de optimización es dada por la función objetivo a optimizar.
+Respuesta: V
+Explicación: En problemas de optimización, la función evaluadora suele ser la función objetivo que se busca maximizar o minimizar.
+
+21. El problema del cubo mágico es un problema de localización.
+Respuesta: V
+Explicación: Ordenar un cubo mágico implica encontrar una configuración específica, lo que lo convierte en un problema de localización.
+
+22. Los algoritmos de búsqueda ciega y con información en el peor caso pueden recorrer todo el espacio de estado, esto es, presentan complejidad no polinomial respecto al número de niveles del árbol de estado.
+Respuesta: V
+Explicación: En el peor caso, estos algoritmos pueden necesitar explorar todo el espacio de estados, lo que resulta en complejidad no polinomial.
+
+23. El algoritmo alfa-beta es el algoritmo Min-Max con acotación (poda).
+Respuesta: V
+Explicación: El algoritmo alfa-beta es una optimización del algoritmo Min-Max que utiliza poda para reducir el número de nodos evaluados.
+
+24. El rápido avance de la inteligencia artificial se debe principalmente a la tratabilidad de sus problemas.
+Respuesta: F
+Explicación: Muchos problemas de IA son intratables; el avance se debe más a mejoras en hardware, algoritmos y disponibilidad de datos.
+
+25. Es adecuado usar inteligencia artificial para hacer pronósticos de la demanda de productos farmacéuticos.
+Respuesta: V
+Explicación: La IA es adecuada para problemas de pronóstico y predicción basados en datos históricos.
+
+26. El criterio diferencia de utilidades para juegos humano-máquina es considerado ofensivo.
+Respuesta: V
+Explicación: Este criterio busca maximizar la ventaja sobre el oponente, lo que se considera una estrategia ofensiva.
+
+27. La principal característica de los sistemas machine learning es la capacidad de aprender a realizar una tarea a través de experiencias.
+Respuesta: V
+Explicación: La capacidad de aprender de los datos y mejorar con la experiencia es la característica definitoria del machine learning.
+
+28. La disciplina de la inteligencia artificial encargada para desarrollar métodos para el desarrollo y mantenimiento de sistemas expertos de calidad es denominada gestión de conocimiento.
+Respuesta: V
+Explicación: La gestión del conocimiento se ocupa de cómo adquirir, representar y mantener el conocimiento en sistemas expertos.
+
+29. Los métodos informados con función de evaluación constante se comportan como métodos ciegos.
+Respuesta: V
+Explicación: Si la función de evaluación es constante, no proporciona información útil, por lo que el método se comporta como un método ciego.
+
+30. El test de Turing se puede resumir, como un juego donde a través de una interacción (como chat) la máquina intenta engañar a un humano que ella es humana, si lo logra se considera que la máquina tiene inteligencia artificial.
+Respuesta: V
+Explicación: Esta es una descripción precisa del test de Turing, donde la capacidad de engañar a un humano se considera evidencia de inteligencia.

@@ -1,0 +1,388 @@
+2 Programas nada parecido al test de Turing: JULIA, ELIZA
+3 Ordenar un cubo mágico (esto es colocar el cubo de tal forma que cada cara del cubo tenga un solo color) es un problema de decisión. 	(    )
+4 Los algoritmos de búsqueda con información presentan complejidad polinomial respecto al número de niveles del árbol de estado.	( F )
+5 El desarrollo de sistemas de créditos financiero (esto es el sistema sugiere si se debe otorgar o rechazar una solicitud de crédito) basados en reglas de negocio corresponde al paradigma sub-simbólico.	( F )
+6 Programas nada parecido al test de Turing: JULIA, ELIZA	( F )
+7 Responder ¿P = NP? es un problema intratable.	(    )
+8 La inteligencia de los software de juego humano-máquina basados en búsqueda en un espacio de estado es dada por la función evaluadora, la estrategia de selección de la jugada a realizar, y los niveles del árbol de estado considerados.	(    )
+9 Los sistemas de información gerencial corresponder a problemas de la inteligencia artificial.
+10 La estrategia de diferencia de utilidades juega a la defensiva	(    )
+11 Puede existir un problema no computable que sea intratable.	(    )
+12 Una alternativa para hacer que las estrategias de los juegos humano-máquina sean no definidas explícitamente es usar los algoritmos de aprendizaje automático (machine learninig) 	(    )
+13 Es recomendable usar machine learning para resolver algunos problemas de data mining. 	(    )
+14 En la representación de un problema como búsqueda en un espacio de estado es necesario explicitar el espacio de estado.
+15 Un software de juego humano máquina basado en búsqueda en un espacio de estado con árbol de profundidad 10, algoritmo de diferencia de utilidades, pero con función evaluadora constante tiene casi igual comportamiento que un software de juego con  nivel principiante.	(    )
+16 Marque al lado derecho V para verdadero y F para Falso    (+0.25 correcta, -0.05 incorrecta)
+17 Determinar el número de fichas en el juego de ajedrez es una regla 	(    )
+18 El desarrollo de un machine learning (máquinas que aprendan) para predecir la demanda de carros de un modelo es un objetivo de ingeniería de la inteligencia artificial.
+19 Los métodos de propósito general son eficientes para resolver un problema en particular.	(    )
+20 Es adecuado el uso de lenguajes de IA para hacer sistemas expertos.	(    )
+21 La inteligencia en los juegos inteligentes basados en búsqueda en un espacio de estado es dada por la función evaluadora, la estrategia de selección de la jugada a realizar, y los niveles del árbol de estado considerados.
+22 John McCarthy acuña el termino de inteligencia artificial en una conferencia celebrada en Darmouth en 1956	(    )
+23 Si un problema decisión es NP-difícil entonces su correspondiente problema de optimización puede ser tratable.	(     )
+24 Una función evaluadora asociada a los problemas de optimización es dada por la función objetivo a optimizar.	(    )
+25 (  ) El problema del cubo mágico (esto es ordenar un cubo de forma que las fichas de cada  cara presente colores iguales) es un problema de localización.
+26 Los algoritmos de búsqueda ciega y con información en el peor caso pueden recorrer todo el espacio de estado, esto es, presentan complejidad no polinomial respecto al número de niveles del árbol de estado.
+27 Si un problema decisión es intratable entonces su correspondiente problema de optimización puede ser un problema de la clase P.	(     )
+28 La inteligencia es exclusividad de las máquinas hechas de proteínas.	(    )
+29 En el juego de Othelo, son funciones evaluadoras: 1) El número de fichas que se invierten a favor; 2) Los pesos asociados a cada celda del tablero; 3) Una combinación lineal de las dos funciones previas.	(    )
+30 ( ) En el método de búsqueda Primero el Mejor, para nodos de igual valor de la función de evaluación se usa orden aleatorio para seleccionar el nodo a expandir.
+31 El algoritmo alfa-beta es el algoritmo Min-Max con acotación (poda).
+32 El desarrollo de sistemas de créditos financiero (esto es el sistema sugiere si se debe otorgar o rechazar una solicitud de crédito) basados en reglas de negocio corresponde al paradigma sub-simbólico. 	(    )
+33 El rápido avance de la inteligencia artificial se debe principalmente a la tratabilidad de sus problemas.
+34 Es adecuado usar inteligencia artificial para hacer pronósticos de la demanda de productos farmacéuticos. 	(    )
+35 La inteligencia es exclusividad de las máquinas hechas de proteínas.
+36 ( ) Los algoritmos de búsqueda en el peor caso pueden recorrer todo el espacio de estado, esto es presentan complejidad no polinomial.
+37 El criterio diferencia de utilidades para juegos humano-máquina es considerado ofensivo	( V )
+38 La principal característica de los sistemas machine learning es la capacidad de aprender a realizar una tarea a través de experiencias.	(    )
+39 La disciplina de la inteligencia artificial encargada para desarrollar métodos para el desarrollo y mantenimiento de sistemas expertos de calidad es denominada gestión de  conocimiento.	(    )
+40 Los métodos informados con función de evaluación constante se comportan como métodos ciegos.
+41 Algunos  autores  consideran como  primer trabajo  computacional  en el área de la inteligencia artificial al trabajo de Warren McCulloch y Walter Pitts (1943) quienes teorizaban sobre las relaciones entre elementos computacionales simples y neuronas biológicas.	(    )
+42 Los métodos de búsqueda necesariamente requieren conocer todo el espacio de estado para encontrar un camino entre el estado inicial y el estado meta.	(    )
+43 El método subiendo a la colina y el método de búsqueda en profundidad se diferencian en que el primero ordena los hijos del nodo procesado antes de su registro en la lista d espera.	(     )
+44 Es adecuado usar la tecnología de inteligencia artificial para desarrollar sistemas de transacciones bancarias.
+45 Rantiy-agent es un software inteligente que recibe los requerimientos y perfil del usuario y busca en las tiendas virtuales el requerimiento del usuario en las mejores condiciones. Bajo estas características se puede catalogar a Raniy-agent de un softbot
+46 El criterio Min-Max para juegos humano-máquina es considerado ofensivo
+47 El sistema de producción recibe un estado y genera los estados obtenidos de aplicar las reglas sobre este.  	(    )
+48 Los métodos de búsqueda necesariamente requieren conocer todo el espacio de estado para encontrar un camino entre el estado inicial y el estado meta	(    )
+49 Es adecuado usar los métodos de camino mínimo para resolver problemas de inteligencia artificial mediante búsqueda en un espacio de estado	(    )
+50 La inteligencia es exclusividad de las máquinas hechas de proteínas.	(     )
+51 En general los problemas de minería de datos son problemas que se pueden resolver adecuadamente usando lenguajes de inteligencia artificial.	(    )
+52 Es recomendable usar sistemas inteligentes para resolver problemas considerados operacionales.	(    )
+53 La aproximación simbólica también es llamada aproximación descendente y aproximaciones basadas en el conocimiento.	(    )
+54 Si un problema decisión es NP-difícil entonces su correspondiente problema de optimización puede ser tratable.
+55 Es adecuado el uso de lenguajes de propósito general para hacer sistemas expertos.
+56 Para desarrollar software de juegos basados en búsqueda en un espacio de estado se requiere explicitar el espacio de estado. 	(    )
+57 El desarrollo de sistemas de predicción de lluvia para una región basados en *machine learning* corresponde al paradigma simbólico. (  )
+58 Los métodos de búsqueda en el peor de los casos pueden recorrer todo el espacio de estado, esto es, presentan complejidad no polinomial.	(    )
+59 El desarrollo de sistemas de predicción de lluvia para una región basados en machine learning corresponde al paradigma simbólico.
+60 Se requiere explicitar el estado meta en todo problema de búsqueda en un espacio de estado. 	(    )
+61 El test de Turing se puede resumir, como un juego donde a través de una interacción (como chat) la máquina intenta engañar a un humano que ella es humana, si lo logra se considera que la máquina tiene inteligencia artificial. 	( V )
+62 El valor mínimas de un nodo es la utilidad (para Max) de estar en el estado correspondiente.
+63 Historia de la IA: Génesis, era oscura, entusiasmo inicial, industria de la IA, sistemas expertos, retorno de las redes neuronales, deep learning, IA generativa, large language model.	(    )
+64 Paradigma sub-simbólico: redes neuronales artificiales, meta-heurísticas, vida artificial.	(    )
+65 Una función de evaluadora asociada a los problemas de optimización es la función a optimizar. (  )
+66 ( ) Los objetivos de ciencia de la inteligencia artificial es comprender el comportamiento inteligente sea este en la máquina, en los humanos o en otros animales.
+67 El desarrollo de metodologías para desarrollar machine learning (máquinas que aprendan) corresponde al objetivo de ciencia de la inteligencia artificial.
+68 El desarrollo de metodologías para desarrollar machine learning (máquinas que aprenden) corresponde al objetivo de ciencia de la inteligencia artificial. 	(    )
+69 En general los sistemas expertos catalogados de prescriptivos presentan funciones de: guía (tutores), monitoreo y críticos.
+70 Si el estado meta esta distante del estado inicial es recomendable usar el método ciego de profundidad en vez de amplitud. 	(    )
+71 El desarrollo de compiladores para procesar lenguaje natural corresponde al área de procesamiento de imágenes.  	(    )
+72 El algoritmo min-max es el algoritmo alfa-beta con acotación (poda).	(    )
+73 Programas nada parecido al test de Turing: JULIA, ELIZA	(    )
+74 En el juego de Othelo, son funciones evaluadoras: 1) El número de fichas que se invierten a favor; 2) Los pesos asociados a cada celda del tablero; 3) Una combinación lineal de las dos funciones previas.
+75 Calcular los estados financieros (sistema de información gerencial) de una empresa a partir de su contabilidad es un problema de la IA.
+76 El primer trabajo de la  inteligencia artificial fue presentado por John McCarthy en una conferencia celebrada en Darmouth en 1956 cuando precisamente acuña dicho termino.
+77 Toda regla que es verificada siempre genera una modificación al estado (nuevos estados)	(     )
+78 Toda regla que es verificada siempre genera una modificación al estado (nuevos estados).
+79 Es adecuado usar los lenguajes de Inteligencia Artificial para implementar vida artificial.
+80 Determinar el número de fichas en el juego de ajedrez es una regla.
+81 El desarrollo de metodologías para desarrollar machine learning (máquinas que  aprendan) corresponde al objetivo de ciencia de la inteligencia artificial.	( F )
+82 El sistema de producción tiene por objetivo generar sucesores (nuevos estados) a partir de la aplicación de las reglas (verificables) sobre un estado de entrada.
+83 Aproximaciones simbólicas: sistemas basados en el conocimiento, sistemas basados en lógica difusa,  sistemas basados en reglas.	(    )
+84 Deep Blue es considerado el primer sistema experto. (  )
+85 Es más difícil probar (demostrar que es verdad) una proposición que saber que esta es verdad.
+86 El desarrollo de metodologías para desarrollar machine learning (máquinas que  aprendan) corresponde al objetivo de ciencia de la inteligencia artificial.	( F  )
+87 Siempre se debe explicitar el estado meta.
+88 Desarrollar sistemas inteligentes para detectar funcionarios corruptos corresponde al objetivo de ingeniería de la Inteligencia Artificial.
+89 Es adecuado usar los lenguajes de Inteligencia Artificial para resolver el problema de selección de proyectos. 	(    )
+90 tienes las 30 preguntas ordenadas y limpias, sin respuestas ni texto adicional:
+91 Siempre se debe explicitar el estado meta.	(    )
+92 El método de primero el mejor garantiza una solución óptima siempre que la función evaluadora sea monótona no decreciente.	(    )
+93 Una función evaluadora asociada a los problemas de optimización es la función a optimizar.
+94 En la representación de un problema como búsqueda en un espacio de estado es necesario explicitar el espacio de estado.	(    )
+95 Se requiere explicitar el estado meta en todo problema de búsqueda en un espacio de estado.
+96 Las fuentes estáticas para la adquisición de conocimiento de un sistema experto de segmentación de clientes de una empresa concesionaria de automóviles son dadas por las reglas de negocio y las políticas de segmentación establecidas en los manuales y reportes de la gerencia de ventas y comercialización.	(    )
+97 Desarrollar sistemas inteligentes para detectar fraudes en el sector de salud corresponde al objetivo de ingeniería de la Inteligencia Artificial.
+98 ( ) Es recomendable usar sistemas inteligentes para resolver problemas considerados operacionales.
+99 El método informado llamado ascenso a la colina no es completo.
+100 Es más fácil demostrar un teorema con el menor número de pasos que simplemente demostrarlo. 	(     )
+101 Toda regla que es verificada siempre genera una modificación al estado (nuevos estados)
+102 Aproximaciones simbólicas: sistemas basados en el conocimiento, sistemas basados en lógica difusa,  sistemas basados en reglas.
+103 CONCEPTOS			  					       (5.0 puntos)
+104 Desarrollar sistemas inteligentes para predecir el éxito de una Start-up a un objetivo de ciencia de la Inteligencia Artificial.	( F )
+105 El algoritmo alfa-beta es el algoritmo diferencia de utilidades con acotación (poda).	(    )
+106 1.- Conceptos									                (5 puntos)
+107 John McCarthy introduce la inteligencia artificial en una conferencia celebrada en Darmouth en 1956.	(    )
+108 Existen problemas intratables que son computables.	(    )
+109 El método de subiendo a la colina siempre procesa el mejor hijo. 	(    )
+110 Existen problemas intratables que son no computables.
+111 Ordenar un cubo mágico (esto es colocar el cubo de tal forma que cada cara del cubo tenga un solo color) es un problema de localización.
+112 El método de búsqueda de ramificación con criterio LIFO es equivalente al método de búsqueda en profundidad.
+113 Los pilares de la computación cognitiva son API, data no estructurada (video, voz, textos), machine learning	( V )
+114 El Test de Turing se puede simplificar, como un juego en el que una máquina intenta convencer a un interrogador humano de que ella es también humana.	(    )
+115 El sistema de producción recibe un estado y genera los estados obtenidos de aplicar las reglas sobre este.
+116 Es adecuado usar la tecnología de inteligencia artificial para resolver el problema de selección de proyectos. 	(    )
+117 El rápido avance de la inteligencia artificial se debe principalmente a la tratabilidad de sus problemas. 	(    )
+118 (  ) Si h*(N) es el costo de la ruta óptima desde N al nodo meta, se dice que una heurística es admisible si 0 ≤ h*(N) ≤ h(N).
+119 La función contar-fichas en el juego de damas es una regla.	(    )
+120 Es adecuado el uso de lenguajes de IA para hacer sistemas inteligentes basados en el paradigma sub-simbólico.	(    )
+121 Conceptos									                (5 puntos)
+122 El criterio diferencia de utilidades para juegos humano-máquina es considerado ofensivo	(    )
+123 Para desarrollar software de juegos basados en búsqueda en un espacio de estado se requiere explicitar el espacio de estado.	( F )
+124 Puede existir un problema no computable que sea indecidible.
+125 Uno de los impactos de la IA es que suprime la creatividad humana.	(    )
+126 El desarrollo de sistemas de predicción de lluvia para una región basados en machine learning corresponde al paradigma simbólico. 	(     )
+127 Podemos definir la IA, como una rama de la ciencia de la computación encargada de desarrollar inteligencia (racional o semejante a la humana) en máquinas hechas no de proteínas. 	(    )
+128 Es recomendable usar meta-heurísticas para determinar donde cuando y cuanto invertir en la Bolsa de Valores de Lima de forma a obtener la máxima rentabilidad.	(    )
+129 El algoritmo alfa-beta es el algoritmo diferencia de utilidades con acotación (poda)	( F )
+130 ¿Existe un algoritmo de complejidad polinomial para resolver un problema de clase NP-Completo es un problema intratable?	(    )
+131 En la definición de un problema como búsqueda en un espacio de estado siempre se debe explicitar el estado meta.	(    )
+132 Rantiy-agent es un software inteligente que recibe los requerimientos y perfil del usuario y busca en las tiendas virtuales el requerimiento del usuario en las mejores condiciones. Bajo estas características se puede catalogar a Raniy-agent de un softbot	( V )
+133 Los métodos informados con función de evaluación constante se comportan como métodos ciegos. 	(    )
+134 Una función de evaluadora asociada a los problemas de optimización es dada por la función objetivo a optimizar.
+135 La estrategia del recorrido en amplitud puede ser muy ineficiente ya que el algoritmo puede recorrer un camino demasiado largo que no conduzca a ninguna solución, o meterse en bucles infinitos.
+136 Una alternativa para hacer que las estrategias de los juegos humano-máquina sean no definidas explícitamente es usar los algoritmos de aprendizaje automático (machine learning).
+137 Desarrollar sistemas inteligentes para detectar fraudes en el sector de salud corresponde al objetivo de ingeniería de la Inteligencia Artificial.	(    )
+138 El problema probar una conjetura, esto es a partir de hipótesis y supuestos asumidos de verdad y mediante inferencias válidas se desea llegar a una tesis dada (conjetura), es un problema de decisión.	(    )
+139 El algoritmo mínimas usa un cálculo simple de los valores mínimas de cada estado sucesor y hace una exploración primero en amplitud completa del árbol de juegos.
+140 Es más fácil demostrar un teorema con el menor número de pasos que simplemente demostrarlo.	(    )
+141 Los algoritmos de búsqueda ciega y con información en el peor caso pueden recorrer todo el espacio de estado, esto es presentan complejidad no polinomial respecto al número de niveles del árbol de estado.	(    )
+142 Programas nada parecido al test de Turing: JULIA, ELIZA.	(    )
+143 El desarrollo de metodologías para desarrollar machine learning (máquinas que  aprendan) corresponde al objetivo de ingeniería de la inteligencia artificial.	(    )
+144 En el algoritmo humano-máquina, la “inteligencia de la máquina” depende de la función evaluadora, los niveles de profundidad del árbol de estado y de la estrategia de selección del estado a procesar.
+145 La estrategia de diferencia de utilidades es no determinística. 	(    )
+146 Calcular los estados financieros (sistema de información gerencial) de una empresa a partir de su contabilidad es un problema de la IA. 	(    )
+147 El problema de búsqueda en un espacio de estado se puede resumir como encontrar en el espacio de estado un camino que inicie con el estado inicial y termine con el estado meta.	(    )
+148 Mediante inteligencia artificial siempre será posible desarrollar un juego inteligente en donde la máquina supere al humano que no usa tecnología de computación. (  )
+149 El desarrollo de sistemas inteligentes de créditos financiero (esto es el sistema sugiere otorgar o rechazar una solicitud de crédito) basados en reglas de negocio corresponde al paradigma simbólico. 	(     )
+150 Si un problema decisión es NP-difícil entonces su correspondiente problema de optimización puede ser tratable.	(    )
+151 La eficiencia de todo algoritmo de búsqueda  se mide por su complejidad temporal, espacial y asintótica.
+152 En general los problemas de optimización con variables de decisión discreta (valores fijos) son problema de la clase NP-Difícil.
+153 Es adecuado usar el método de búsqueda subiendo a la colina para resolver el problema de misioneros y caníbales con el menor número de pasos.	(    )
+154 Deep Blue es considerado el primer sistema experto.	(    )
+155 Es adecuado usar la tecnología de inteligencia artificial para resolver problemas de la programación lineal.	( F )
+156 Programas parecido al test de Turing: JULIA, ELIZA	(    )
+157 El criterio min-max para juegos humano-máquina es considerado ofensivo	( F )
+158 Toda regla que se verificada siempre genera una modificación al estado (nuevos estados) 	(    )
+159 Rantiy-agent es un software inteligente que recibe los requerimientos y perfil del usuario y busca en las tiendas virtuales el requerimiento del usuario en las mejores condiciones. Bajo estas características se puede catalogar a Rantiy-agent de un softbot. (  )
+160 Determinar el número de fichas en el juego de damas es una regla 	(    )
+161 Ordenar un cubo mágico (esto es colocar el cubo de tal forma que cada cara del cubo tenga un solo color) es un problema de localización.	(    )
+162 Los algoritmos de búsqueda ciega y con información en el peor caso pueden recorrer todo el espacio de estado, esto es presentan complejidad no polinomial respecto al número de niveles del árbol de estado. (  )
+163 La estrategia alfa beta es la misma que el min-max con acotación.
+164 Los objetivos de ingeniería de la inteligencia artificial es comprender el comportamiento inteligente sea este en la máquina, en los humanos o en otros animales.	(    )
+165 Siempre se requiere explicitar el estado meta
+166 Siempre se requiere explicitar el estado meta.
+167 Rantiy-agent es un software inteligente que recibe los requerimientos y perfil del usuario y busca en las tiendas virtuales el requerimiento del usuario en las mejores condiciones. Bajo estas características se puede catalogar a Raniy-agent de un softbot	(     )
+168 Es recomendable usar los métodos de camino mínimos para resolver problemas de búsqueda en un espacio de estado, esto es problemas de Inteligencia Artificial. 	(    )
+169 Fundamentos de la IA: filosofía, matemática, psicología, ingeniería computacional, lingüística.	(    )
+170 Es adecuado usar los lenguajes de Inteligencia Artificial para resolver el problema de selección de proyectos.
+171 La inteligencia es exclusividad de las máquinas hechas de proteínas. 	( F )
+172 El modelo de diseño, describe la arquitectura del sistema, las plataformas de ejecución, los módulos software, la base de conocimiento, los métodos de resolución, los sistemas de recomendación, entre otros.	(    )
+173 Deep Blue es considerado el primer sistema experto.
+174 Es adecuado usar los lenguajes de Inteligencia Artificial para resolver el problema de la mejor ruta de transporte. 	(    )
+175 Mediante inteligencia artificial siempre será posible desarrollar un juego inteligente en donde la máquina supere al humano.
+176 El criterio Min-Max para juegos humano-máquina es considerado ofensivo. (  )
+177 Es adecuado usar la tecnología de inteligencia artificial para construir un sistema que sea capaz de predecir lluvias. 	(    )
+178 Los lenguajes de IA se orientan al paradigma sub-simbólico.
+179 El método de búsqueda denominado Ascenso a la Colina siempre genera solución óptima.	(    )
+180 Los métodos informados con función de evaluación constante se comportan como métodos ciegos.	(     )
+181 El problema de decisión: ¿Existe un algoritmo de complejidad polinomial para resolver un problema de clase NP-Completo? es un problema indecidible	(     )
+182 Si h*(N) es el costo de la ruta óptima desde N al nodo meta, se dice que una heurística h es admisible si 0 ≤ h*(N) ≤ h(N) para todo N, esto es el algoritmo A* encuentra una solución óptima.	(    )
+183 Para desarrollar software de juegos basados en búsqueda en un espacio de estado se requiere explicitar el estado meta. 	(    )
+184 El problema: ¿P = NP? es un problema intratable.	(     )
+185 El método de ramificación y acotación con criterio primero el mejor y sin uso de acotación es el método de primero el mejor.  	(     )
+186 Cuando el criterio de selección del nodo a procesar es “aleatorio” una árbol de estado de nivel 10 compensa la inteligencia del software.	(    )
+187 Es recomendable usar los métodos de camino mínimos para resolver problemas de búsqueda en un espacio de estado, esto es problemas de Inteligencia Artificial. 	( F )
+188 Es adecuado usar inteligencia artificial para identificar fraudes en el uso de tarjetas de créditos.
+189 El algoritmo alfa-beta es el algoritmo diferencia de utilidades con acotación (poda).
+190 Los métodos informados con función de evaluación constante se comportan como métodos ciegos. (  )
+191 El desarrollo de sistemas inteligentes de créditos financiero (esto es el sistema sugiere otorgar o rechazar una solicitud de crédito) basados en reglas de negocio corresponde al paradigma simbólico.
+192 Los algoritmos de búsqueda ciega y con información en el peor caso pueden recorrer todo el espacio de estado, esto es presentan complejidad no polinomial respecto al número de niveles del árbol de estado.
+193 El método A* es el método primero el mejor en donde la función evaluadora es dada por la suma de dos funciones, una que mide el costo o distancia entre el nodo inicial y el nodo actual, y otro que estima el costo o distancia entre el nodo actual y el nodo meta.	(    )
+194 Es adecuado usar la tecnología de inteligencia artificial para resolver problemas de la programación lineal. 	(    )
+195 Los algoritmos de búsqueda con información presentan complejidad polinomial respecto al número de niveles del árbol de estado.
+196 Desarrollar sistemas inteligentes para detectar funcionarios corruptos corresponde al objetivo de ingeniería de la Inteligencia Artificial. (  )
+197 El criterio Min-Max para juegos humano-máquina es considerado ofensivo.
+198 Desarrollar sistemas inteligentes para detectar funcionarios corruptos corresponde al  objetivo de ciencia de la Inteligencia Artificial.	(    )
+199 Una motivación para hacer Ciborg es tener soldados con mejores destrezas físicas que el humano.	( V )
+200 La computación cognitiva es la tecnología que interpreta el lenguaje humano, razona sobre él, y aprende de cada interacción	( V )
+201 Los términos propuestos para designar el área de inteligencia artificial fueron entre otras: procesamiento de información compleja, inteligencia de máquinas, programación heurística o cognología.	(    )
+202 Una de las metas de la IA es desarrollar máquinas que puedan tener comportamiento inteligente igual o mejor que los humanos.
+203 Es más difícil demostrar un teorema con el menor número de pasos que simplemente demostrarlo.
+204 (  ) En el método de búsqueda no determinista es fundamental definir correctamente la función de evaluación.
+205 El proceso de poda consiste en eliminar los sub-arboles de estado que no generan mejor solución.	(     )
+206 Mediante inteligencia artificial siempre será posible desarrollar un juego inteligente en donde la máquina supere al humano que no usa tecnología de computación.	(    )
+207 El desarrollo de metodologías para desarrollar machine learning (máquinas que  aprendan) corresponde al objetivo de ciencia de la inteligencia artificial.	(    )
+208 Desarrollar un sistema inteligente para diagnosticar el cáncer de cuello uterino a través de imágenes es un objetivo de ingeniería de la Inteligencia Artificial.	(    )
+209 El método de ramificación y acotación con criterio FIFO es un método ciego. (  )
+210 El desarrollo de metodologías para desarrollar machine learning (máquinas que aprendan) corresponde al objetivo de ciencia de la inteligencia artificial. 	(    )
+211 ( ) El método de búsqueda denominado Ascenso a la Colina es óptimo
+212 Determinar el número de fichas en el juego de ajedrez es una regla. (  )
+213 En general los sistemas expertos catalogados de prescriptivos presentan funciones de: guía (tutores), monitoreo y críticos.	(    )
+214 Ordenar un cubo mágico (esto es colocar el cubo de tal forma que cada cara del cubo tenga un solo color) es un problema de localización. 	(    )
+215 ( ) En los métodos ciegos siempre se escoge el primer nodo de la lista LE para ser procesado
+216 En los juegos de estrategia los oponentes pueden asumir el mismo rol (max o min).
+217 El método de búsqueda de ramificación con criterio LIFO es equivalente al método de búsqueda en profundidad	(    )
+218 Es adecuado usar el método de búsqueda en profundidad para resolver el problema de asignación de fichas adyacentes (fichas que se colocan en un tablero de forma que fichas adyacentes sean no consecutivas)	(    )
+219 La estrategia de diferencia de utilidades juega a la defensiva.
+220 El desarrollo de sistemas expertos para el diagnóstico de enfermedades corresponde al paradigma simbólico.	( V )
+221 Uno de los impactos de la IA es que suprime la creatividad humana.
+222 La función contar-fichas en el juego de damas es una regla.
+223 ( ) El método de búsqueda de Ascenso a la Colina permite resolver únicamente problemas de Localización
+224 CLIPS implementa el algoritmo de encadenamiento progresivo.	(    )
+225 Aproximaciones sub-simbólicas: sistemas basados en el conocimiento, sistemas basados en lógica difusa,  sistemas basados en reglas.	(    )
+226 Es adecuado usar la tecnología de inteligencia artificial para resolver problemas de la programación lineal. (  )
+227 Los métodos de búsqueda necesariamente requieren conocer todo el espacio de estado para encontrar un camino entre el estado inicial y el estado meta	( F )
+228 ( ) La búsqueda en profundidad siempre es más eficiente que la búsqueda en amplitud.
+229 El resumen final de los modelos del nivel contextual de CommonKADS se describe en el formulario OM5.	(    )
+230 Los dos principales paradigmas de aproximaciones a la inteligencia artificial son: las aproximaciones basadas en procesamiento de símbolos y las denominadas aproximaciones sub-simbólicas.	(    )
+231 El criterio Min-Max para juegos humano-máquina es considerado ofensivo	(    )
+232 Paradigma simbólico: redes neuronales artificiales, meta-heurísticas, vida artificial.
+233 ( ) El primer trabajo John McCarthy acuña el termino de inteligencia artificial en una conferencia celebrada en Darmouth en 1956.
+234 El desarrollo de metodologías para desarrollar siste4mas basados en el conocimiento corresponde al objetivo de ingeniería de la inteligencia artificial. 	(    )
+235 El sistema de producción tiene por objetivo generar sucesores (nuevos estados) a partir de la aplicación de las reglas (verificables) sobre un estado de entrada.	(    )
+236 Desarrollar un sistema inteligente para diagnosticar el cáncer de cuello uterino a través de imágenes es un objetivo de ingeniería de la Inteligencia Artificial.
+237 Historia de la IA: Génesis, era oscura, entusiasmo inicial, industria de la IA, sistemas expertos, retorno de las redes neuronales, deep learning, IA generativa, large language model.
+238 Es adecuado inteligencia artificial para hacer la planificación óptima de la siembra en el sector agrícola.
+239 Toda regla que es verificada siempre genera una modificación al estado (nuevos estados). (  )
+240 Rantiy-agent es un software inteligente que recibe los requerimientos y perfil del usuario y busca en las tiendas virtuales el requerimiento del usuario en las mejores condiciones. Bajo estas características se puede catalogar a Raniy-agent de un softbot.
+241 La fuente de error del especialista en la construcción de un sistema experto se origina por la inadecuada comprensión semántica.	(    )
+242 El problema de búsqueda en un espacio de estado se puede resumir como encontrar desde el espacio de estado un camino (secuencia de reglas y/o estados) que inicie con el estado inicial y termine con el estado meta.	(    )
+243 Cuando el estado meta es imposible de explicitar, se recomienda establecer las condiciones de estado meta.
+244 En general los problemas de optimización con variables de decisión discreta son problema de la clase NP-Difícil.	(    )
+245 En los métodos ciegos de búsqueda no siempre se escoge el primer nodo de la lista LE para ser procesado
+246 Los métodos de búsqueda en el peor de los casos pueden recorrer todo el espacio de estado, esto es, presentan complejidad no polinomial.
+247 Es adecuado el uso de lenguajes de propósito general para hacer sistemas de optimización basado en algoritmos genéticos.
+248 La inteligencia de los software de juego humano-máquina basados en búsqueda en un espacio de estado es dada por la función evaluadora, la estrategia de selección de la jugada a realizar, y los niveles del árbol de estado considerados. (  )
+249 Cuando el valor de la función evaluadora es constante para cualquier estado los métodos de búsqueda informada tienen el mismo comportamiento que los llamados métodos ciegos.
+250 El método subiendo a la colina y el método de búsqueda en profundidad se diferencian en que el primero ordena los hijos del nodo procesado antes de su registro en la lista de espera. (  )
+251 Cuando el criterio de selección del nodo a procesar es “aleatorio” una excelente función evaluadora compensa la inteligencia del software. (  )
+252 No es necesario construir el árbol de estado de un problema de IA para resolverlo porque el algoritmo de búsqueda (ciega o informada) lo construye explícitamente.
+253 El método de búsqueda de ramificación con criterio FIFO es equivalente al método de búsqueda en profundidad	(     )
+254 La inteligencia es exclusividad de las máquinas hechas de proteínas. 	(    )
+255 Si el estado meta está distante del estado inicial es recomendable usar el método ciego de profundidad en vez de amplitud.
+256 Una función de evaluadora asociada a los problemas de optimización es la función a optimizar.	(    )
+257 El método de subiendo a la colina siempre procesa el mejor hijo.
+258 El desarrollo de un machine learning (máquinas que aprendan) para predecir la demanda de carros de un modelo es un objetivo de ingeniería de la inteligencia artificial. 	(     )
+259 Es adecuado usar la tecnología de inteligencia artificial para desarrollar sistemas de transacciones bancarias.	(    )
+260 El Test de Turing se puede simplificar, como un juego en el que una máquina intenta convencer a un interrogador humano de que ella es también humana. (  )
+261 El método A* y es el método primero el mejor en donde la función evaluadora es dada por la suma de dos funciones, una que mide el costo o distancia entre el nodo inicial y el nodo actual, y otro que estima el costo o distancia entre el nodo actual y el nodo meta.	(    )
+262 En los juegos de estrategia los oponentes pueden asumir el mismo rol (max o min).	(    )
+263 La base de conocimiento de un sistema experto de diagnóstico de enfermedades es dada por los datos que identifican al paciente y los síntomas que este presenta.  	(    )
+264 Los métodos de búsqueda necesariamente requieren conocer todo el espacio de estado para encontrar un camino entre el estado inicial y el estado meta.
+265 El algoritmo alfa-beta es una particularización del algoritmo de ramificación y acotación para juegos humano-máquina
+266 El criterio Min-Max para juegos humano-máquina es considerado defensivo	(    )
+267 Cuando el criterio de selección del nodo a procesar es “aleatorio” una excelente  función evaluadora compensa la inteligencia del software.	(    )
+268 La búsqueda primero el mejor avara expande nodos con h(n) mínima. No es óptima, pero es a menudo eficiente y completa.
+269 El método de búsqueda de ramificación con criterio LIFO es equivalente al método de búsqueda en amplitud
+270 Es adecuado usar la tecnología de inteligencia artificial para detectar fraude en el comercio electrónico. 	(    )
+271 Cuando el valor de la función evaluadora es constante para cualquier estado los métodos de búsqueda informada tienen el mismo comportamiento que los llamados métodos ciegos.	(    )
+272 El jefe de planta de una empresa industrial en una reunión de trabajo le pide a uno de los operarios le explique la programación de tareas establecida para las células de fabricación de la planta, visando la fabricación del lote de producción a entregar a fin de mes. El problema planteado por el jefe de planta (explicar) es un problema de decisión.
+273 Los métodos informados que usan función evaluadora constante tienen el mismo comportamiento que los métodos ciegos
+274 Requisito para tener vida artificial es tener conciencia, es decir capacidad de asociar pensamientos en un instante dado.	( V )
+275 Una función de evaluadora asociada a los problemas de optimización es dada por la función objetivo a optimizar.	(    )
+276 Es más fácil ordenar un cubo mágico (esto es, mover el cubo mágico de forma que todas las piecitas que conforma cada cara del cubo tenga el mismo color) con el menor número de movimientos que simplemente ordenarlo.	(     )
+277 Es recomendable usar los métodos de camino mínimos para resolver problemas de búsqueda en un espacio de estado, esto es problemas de Inteligencia Artificial	(    )
+278 Es adecuado el uso de lenguajes de IA para hacer sistemas inteligentes basados en el paradigma sub-simbólico.	( F )
+279 El problema probar una conjetura, esto es a partir de hipótesis y supuestos asumidos de verdad y mediante inferencias válidas se desea llegar a una tesis dada (conjetura), es un problema de decisión.
+280 Podemos definir la IA, como una rama de la ciencia de la computación encargada de desarrollar inteligencia (racional o semejante a la humana) en máquinas hechas no de proteínas.
+281 El desarrollo de sistemas expertos para el diagnóstico de enfermedades corresponde al paradigma simbólico.
+282 Es adecuado el uso de lenguajes de IA para hacer sistemas inteligentes basados en el paradigma sub-simbólico.
+283 El desarrollo de sistemas de créditos financieros (esto es, el sistema sugiere si se debe otorgar o rechazar una solicitud de crédito) basados en reglas de negocio corresponde al paradigma sub-simbólico.
+284 El método de subiendo a la colina siempre procesa el mejor hijo. (  )
+285 La búsqueda en profundidad siempre es más eficiente que la búsqueda en amplitud	(    )
+286 En la definición de un problema como búsqueda en un espacio de estado siempre se debe explicitar el estado meta.
+287 Desarrollar sistemas inteligentes para detectar fraudes en el sector de salud corresponde al objetivo de ingeniería de la Inteligencia Artificial.	( V )
+288 La inteligencia es exclusividad de las máquinas hechas de proteínas. (  )
+289 El más eficiente entre los métodos informados es el de ascenso a la colina porque realiza una búsqueda local.
+290 La prueba de conjeturas corresponde a la línea de inteligencia artificial de  demostración automática.  	(    )
+291 Una función de evaluadora asociada a la estrategia no determinística es el seleccionar el mejor estado.	(    )
+292 Es adecuado usar la tecnología de sistemas expertos para la gestión óptima de semáforos (esto es, cambiar las señales de forma a minimizar la cola de espera para las señales en rojo).
+293 Cuando el criterio de selección del nodo a procesar es “aleatorio” una excelente  función evaluadora compensa la inteligencia del software.	( F )
+294 Es recomendable usar los métodos de camino mínimos para resolver problemas de búsqueda en un espacio de estado, esto es problemas de Inteligencia Artificial. (  )
+295 (  ) Si el problema de localización asociado a un problema   es intratable entonces el problema de optimización asociado   es tratable.
+296 El método de ramificación y acotación con criterio FIFO es un método ciego.  	(     )
+297 En el método de búsqueda no determinista es fundamental definir correctamente la función de evaluación	(    )
+298 En general los problemas de optimización con variables de decisión 0-1 son problema de la clase NP-Difícil.	(    )
+299 En general los problemas de optimización con variables de decisión discreta (valores fijos) son problema de la clase NP-Difícil.	(     )
+300 Es más difícil pintar un mapa con 6 colores que pintarlo con el menor número de colores. 	(     )
+301 Los términos dados para el área de inteligencia artificial son: cognología, heurística, inteligencia artificial. (  )
+302 El método de búsqueda de ramificación con criterio FIFO es equivalente al método de búsqueda en profundidad	(    )
+303 El juego denominado póquer en el contexto de juegos inteligentes humano-máquina corresponde a los juegos por turno con información incompleta.	(    )
+304 Es más fácil ordenar un cubo mágico (esto es, mover el cubo mágico de forma que todas las piecitas que conforma cada cara del cubo tenga el mismo color) con el menor número de movimientos que simplemente ordenarlo.
+305 Para desarrollar software de juegos basados en búsqueda en un espacio de estado se requiere explicitar el espacio de estado. (  )
+306 Una función evaluadora asociada a la estrategia no determinística es el seleccionar el mejor estado.
+307 El algoritmo alfa-beta es una particularización del algoritmo de ramificación y acotación para juegos humano-máquina	(    )
+308 Mediante inteligencia artificial siempre será posible implementar un juego inteligente en donde la máquina supere al humano que no usa tecnología de computación.	(    )
+309 La búsqueda subiendo a la colina (hill climb search) es más rápida que la búsqueda primero el mejor.	(    )
+310 Siempre se requiere explicitar el estado meta. (  )
+311 El método de búsqueda de ramificación con criterio LIFO es equivalente al método de búsqueda en profundidad. (  )
+312 (  ) En los juegos inteligentes humano-máquina la aplicación del método informado Ascenso a la Colina corresponde a una búsqueda de una capa.
+313 Fundamentos de la IA: filosofía, matemática, psicología, ingeniería computacional, lingüística.
+314 Una función de evaluadora asociada a la estrategia no determinística es el seleccionar el mejor estado.	( F )
+315 En el algoritmo humano-maquina, la “inteligencia de la máquina” depende de la función evaluadora, los niveles de profundidad del árbol de estado y de la estrategia de selección del estado a procesar.	(    )
+316 El método de subiendo a la colina siempre procesa el mejor hijo.	(     )
+317 Los lenguajes de IA se orientan al paradigma simbólico.	(    )
+318 El desarrollo de sistemas de créditos financieros (esto es el sistema sugiere si se debe otorgar o rechazar una solicitud de crédito) basados en reglas de negocio corresponde al paradigma sub-simbólico. (  )
+319 El problema de hacer que una máquina aprenda a realizar una tarea a través de experiencias y que luego de aprender su tasa de error y de inexactitud sea cero, es un problema tratable.
+320 El algoritmo alfa-beta es el algoritmo min-max con acotación (poda).	(    )
+321 El algoritmo min-max y el algoritmo alfa-beta se diferencian principalmente por el proceso de acotación que este último presenta.
+322 El sistema de producción es un sistema que implementa las reglas y sus condiciones, de forma que al recibir un estado “P” genera los sucesores de “P”.
+323 Es recomendable usar meta-heurísticas para determinar la mejor asignación de trabajadores a tareas en la actividad de embarque y desembarque de naves.
+324 El desarrollo de sistemas expertos para el diagnóstico de enfermedades corresponde al paradigma simbólico.	(    )
+325 Los métodos de búsqueda local como la ascensión de colinas, operan en formulaciones completas de estados; manteniendo solo una cantidad pequeña de nodos en memoria.
+326 Es adecuado usar la tecnología de inteligencia artificial para desarrollar sistemas de transacciones bancarias. 	(    )
+327 Deep Blue es considerado el primer sistema que usa grandes cantidades de conocimiento (sistema experto).	(    )
+328 El proceso de ramificación torna el método de ramificación y acotación como el más eficiente entre los métodos informados de búsqueda.	(     )
+329 Los objetivos de la ciencia (básica) de la inteligencia artificial es comprender el comportamiento inteligente sea este en la máquina, en los humanos o en otros animales.	(    )
+330 El algoritmo alfa-beta es el min-max con acotación (poda).	( V )
+331 El sistema de producción tiene por objetivo generar sucesores (nuevos estados) a partir de la aplicación de las reglas (verificables) sobre un estado de entrada. (  )
+332 Los métodos de búsqueda necesariamente requieren conocer todo el espacio de estado para encontrar un camino entre el estado inicial y el estado meta. (  )
+333 Es adecuado usar la tecnología de inteligencia artificial para resolver problemas de la programación lineal.	(     )
+334 Deep Blue es considerado el primer sistema experto.	( F )
+335 Es adecuado usar la tecnología de inteligencia artificial para construir un sistema que sea capaz de predecir lluvias.
+336 El problema de selección de proyectos (knapsack problema) es un problema NP-Hard. 	(     )
+337 Los algoritmos de búsqueda con información presentan complejidad polinomial respecto al número de niveles del árbol de estado.	(    )
+338 Es adecuado usar la tecnología de inteligencia artificial para desarrollar sistemas de información gerencial.
+339 John McCarthy acuña el término de inteligencia artificial en una conferencia celebrada en Darmouth en 1956.	(    )
+340 Es recomendable usar los métodos de caminos mínimos para resolver problemas de búsqueda en un espacio de estado, esto es, problemas de Inteligencia Artificial.
+341 Es adecuado usar los lenguajes de Inteligencia Artificial para implementar vida artificial. 	(    )
+342 Cuando el criterio de selección del nodo a procesar es “aleatorio”, una excelente función evaluadora compensa la inteligencia del software.
+343 La inteligencia de los software de juego humano-máquina basados en búsqueda en un espacio de estado es dada por la función evaluadora, la estrategia de selección de la jugada a realizar, y los niveles del árbol de estado considerados.
+344 El sistema de producción tiene por objetivo generar sucesores (nuevos estados) a partir de la aplicación de las reglas (verificables) sobre un estado de entrada.	(     )
+345 La inteligencia de los software de juego humano-máquina basados en búsqueda en un espacio de estado es dada por la función evaluadora, la estrategia de selección de la jugada a realizar, y los niveles del árbol de estado.	(    )
+346 El problema de búsqueda en un espacio de estado se puede resumir como encontrar en el espacio de estado un camino que inicie con el estado inicial y termine con el estado meta.
+347 La búsqueda subiendo a la colina (hill climb search) es más rápida que la búsqueda primero el mejor.
+348 La estrategia alfa beta es la misma que el min-max con acotación.	(    )
+349 Conceptos									           (6 puntos)
+350 El problema de búsqueda en un espacio de estado se puede resumir como encontrar desde el espacio de estado un camino (secuencia de reglas y/o estados) que inicie con el estado inicial y termine con el estado meta. 	(    )
+351 Cuando el valor de la función evaluadora es constante para cualquier estado entonces los métodos de búsqueda informada tienen el mismo comportamiento que los llamados métodos ciegos.	(    )
+352 ahora que te pase también las respuestas correctas?4
+353 Es adecuado el uso de lenguajes de propósito general para hacer sistemas expertos. (  )
+354 El método subiendo a la colina y el método de búsqueda en profundidad se diferencian en que el primero ordena los hijos del nodo procesado antes de su registro en la lista de espera.
+355 Los métodos de búsqueda presentan complejidad no polinomial	(    )
+356 Los algoritmos de búsqueda ciega y con información en el peor caso pueden recorrer todo el espacio de estado, esto es presentan complejidad no polinomial.
+357 La validación tiene entre sus principales objetivos conocer si el sistema experto se encuentra listo ara pasar a producción. 	(    )
+358 El problema de decisión: ¿Existe un algoritmo de complejidad polinomial para resolver un problema de clase NP-Completo? es un problema indecidible
+359 Es más fácil encontrar una interfaz óptima (esto es una interfaz con una distribución de objetos de forma que el operador de la interfaz realice una tarea con  el menor tiempo)  que saber que existe dicha interfaz óptima.	(    )
+360 La base de conocimiento de un sistema experto de diagnóstico de enfermedades es dada por los datos que identifican al paciente y los síntomas que este presenta.
+361 En un problema de maximización si el valor de la función evaluadora para un estado “e” es mayor que la cota para “e” entonces, en el algoritmo de Branch & Bound, se debe actualizar la cota de “e”.
+362 El método de ramificación y acotación con criterio FIFO es un método ciego.
+363 Toda regla que es verificada siempre genera una modificación al estado (nuevos estados) 	(    )
+364 El algoritmo alfa-beta es el algoritmo min-max con acotación (poda). (  )
+365 Desarrollar sistemas inteligentes para detectar funcionarios corruptos corresponde al  objetivo de ingeniería de la Inteligencia Artificial.
+366 Para desarrollar software de juegos basados en búsqueda en un espacio de estado se requiere explicitar el espacio de estado.
+367 En el nivel conceptual de una representación como una búsqueda en un espacio de estados se elige una estructura de datos para los estados y se determina el formato de codificación de los operadores o reglas.
+368 Mediante inteligencia artificial siempre será posible desarrollar un juego inteligente en donde la máquina supere al humano que no usa tecnología de computación.
+369 El lento desarrollo del avance de la inteligencia artificial se debe principalmente a la intratabilidad de sus problemas. 	(    )
+370 Toda regla que es verificada siempre genera una modificación al estado (nuevos estados)	(    )
+371 Los  softbots son agentes de software que recorren Internet buscando información que ellos creen que pueden ser de interés para sus usuarios.	(    )
+372 El desarrollo de compiladores para procesar lenguaje natural corresponde al área de procesamiento de imágenes.
+373 Es adecuado usar la tecnología de inteligencia artificial para desarrollar sistemas de información gerencial. 	(    )
+374 El proceso de ramificación torna el método de ramificación y acotación como el más eficiente entre los métodos informados de búsqueda.
+375 Los términos dados para el área de inteligencia artificial son: cognología, heurística, inteligencia artificial.
+376 El criterio diferencia de utilidades para juegos humano-máquina es considerado ofensivo.
+377 Es adecuado usar la tecnología de inteligencia artificial para resolver problemas de la programación lineal.
+378 El problema de búsqueda en un espacio de estado se puede resumir como encontrar desde el espacio de estado un camino (secuencia de reglas y/o estados) que inicie con el estado inicial y termine con el estado meta.
+379 El desarrollo de metodologías para desarrollar *machine learning* (máquinas que aprendan) corresponde al objetivo de ciencia de la inteligencia artificial. (  )
+380 Una de las metas de la IA es desarrollar máquinas que puedan tener comportamiento inteligente igual o mejor que los humanos.	(    )
+381 El Test de Turing se puede simplificar, como un juego en el que una máquina intenta convencer a un interrogador humano de que ella es también humana.
+382 (  ) El juego denominado póquer en el contexto de juegos inteligentes humano-máquina corresponde a los juegos por turno con información incompleta.
+383 La estrategia de diferencia de utilidades es no determinística.
+384 El desarrollo de sistemas de créditos financiero (esto es el sistema sugiere si se debe otorgar o rechazar una solicitud de crédito) basados en reglas de negocio corresponde al paradigma sub-simbólico.	(    )
+385 Los métodos informados con función de evaluación constante se comportan como métodos ciegos.	( V )
+386 Para desarrollar software de juegos basados en búsqueda en un espacio de estado se requiere explicitar el espacio de estado.	(    )
+387 Siempre se requiere explicitar el estado meta	(    )
+388 En un problema de maximización si el valor de la función evaluadora para un estado “e” es mayor que la cota para “e” entonces, en el algoritmo de Branch & Bound, se debe actualizar la cota de “e”.	(    )
+389 Es adecuado inteligencia artificial para hacer la planificación óptima de la siembra en el sector agrícola. 	(    )
